@@ -6,7 +6,7 @@
   </p>
 
  <p>🚀 Busco aplicar minhas habilidades em projetos desafiadores e inovadores no mundo do desenvolvimento web. </p>
- <p>🎓 Atualmente cursando o curso DevQuest Full Stack (PAD) - Programa de Aceleração Dev: Uma sessão de mentorias individuais com investimento em mentores experts na área de desenvolvimento web Full Stack. </p>
+ <p>🎓 Atualmente tendo mentorias individuais do curso DevQuest Full Stack (PAD) - Programa de Aceleração Dev: Uma sessão de mentorias individuais com investimento em mentores experts na área de desenvolvimento web Full Stack. </p>
  <p>🛠️ Principais Tecnologias: JavaScript | Typescript | React | NodeJS | Express | PostgreSQL | Docker </p>
 </div>
 
