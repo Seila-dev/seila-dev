@@ -1,5 +1,15 @@
 ## Bem-vindo(a) ao perfil do SeilaDev 😁
 
+<div>
+  <p>
+   Sou um desenvolvedor Fullstack dedicado a construir soluções criativas e impactantes, com o objetivo de facilitar a vida das pessoas. Meu GitHub contém projetos que refletem minha trajetória no desenvolvimento de sites e aplicações interativas. Trabalho com tecnologias como HTML, CSS, JavaScript, React, TypeScript, NodeJS, Express, PostgreSQL, entre outras, que me permitem criar soluções escaláveis, dinâmicas e centradas na experiência do usuário.
+  </p>
+
+ <p>🚀 Busco aplicar minhas habilidades em projetos desafiadores e inovadores no mundo do desenvolvimento web. </p>
+ <p>🎓 Atualmente cursando o curso DevQuest Full Stack (PAD) - Programa de Aceleração Dev: Uma sessão de mentorias individuais com investimento em mentores experts na área de desenvolvimento web Full Stack. </p>
+ <p>🛠️ Principais Tecnologias: JavaScript | Typescript | React | NodeJS | Express | PostgreSQL | Docker </p>
+</div>
+
  <div>
    <a href="https://github.com/seila-dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seila-dev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
