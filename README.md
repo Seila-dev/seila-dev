@@ -26,13 +26,13 @@
 
 ### Watchlist
 
-O **Watchlist** é meu projeto principal, onde assumi o papel de **Tech Lead** para guiar uma equipe de 10 pessoas (designers e devs) no desenvolvimento de uma aplicação moderna de catálogo e organização de conteúdos (livros, filmes, animes, etc).
+O **Watchlist** é meu projeto principal, onde assumi o papel de **Tech Lead** para guiar uma equipe de 8 pessoas (designers e devs) no desenvolvimento de uma aplicação moderna de catálogo e organização de conteúdos (livros, filmes, animes, etc).
 
 **Principais responsabilidades e aprendizados como Tech Lead:**
 
 * Estruturei a arquitetura do projeto (**Next.js + Node.js/Express + PostgreSQL**).
 * Documentei o banco de dados e implementei autenticação segura (JWT e OAuth 2.0).
-* Coordenei tarefas no **Trello + Notion** e defini fluxos de versionamento com **Git/GitHub Flow**.
+* Coordenei tarefas no **Trello + Notion** e defini fluxos de versionamento com **Git/Github Actions**.
 * Organizei toda a organização da equipe, squads e recrutamento em geral.
 * Mentorei membros do time, equilibrando desenvolvimento técnico e aprendizado prático.
 * Desenvolvendo features complexas e Roles no backend. Ex: Usuários Demo, Usuários logados e Interações com a comunidade, além da segurança com bibliotecas privadas
