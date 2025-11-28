@@ -5,7 +5,7 @@
    Desenvolvedor Full Stack (React/Node.js) com experiência no desenvolvimento, arquitetura, segurança e manutenção de aplicações web modernas e APIs escaláveis. 
   </p>
 
- <p>🚀 Atualmente Tech Lead na Kosting Services, uma startup SaaS com 5 Desenvolvedores e 2 designers, com mais de 2 meses focando em construir produtos digitais reais, usando metodologias ágeis e colaboração em equipe </p>
+ <p>🚀 Atualmente Tech Lead na Kosting Services, uma startup SaaS com 3 Desenvolvedores e 2 designers, com mais de 5 meses focando em construir produtos digitais reais, usando metodologias ágeis e colaboração em equipe </p>
  <p>🎓 Tenho inglês avançado (compreensão total em leitura e audição), o que me permite atuar com fluidez em times internacionais e acompanhar documentações técnicas sem barreiras.
  </p>
  <p>🛠️ Principais Tecnologias: <strong> JavaScript | Typescript | React | NextJS | NodeJS | Express | PostgreSQL | Docker </strong> </p>
